@@ -10,4 +10,8 @@ POC to use the [SpeechRecognition interface](https://developer.mozilla.org/en-US
 
 ## Installation
 
+N/A
+
 ## Usage
+
+Open index.html in your browser.
